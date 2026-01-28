@@ -61,17 +61,6 @@ Images are stored in the `images/` folder.
 
 ---
 
-## **📁 Repository Structure**
-
-```
-01_iris_classification/
-│
-├── notebook.ipynb        # Full analysis and modelling workflow
-├── README.md             # Project overview (this file)
-└── images/               # Plots and visualisations
-```
-
----
 
 ## **🚀 Key Results**
 
